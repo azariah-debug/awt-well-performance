@@ -23,7 +23,7 @@ Mechanical failure, integrity risk, material incompatibility, dominant reservoir
 
 ## Evidence and limits
 
-The site distinguishes source-deck claims and cited field examples from forecasts. Analogue results do not predict a candidate well. Candidate-specific engineering, compatibility review, operating guardrails and operator approval remain necessary.
+The site distinguishes AWT product claims and cited field examples from forecasts. Analogue results do not predict a candidate well. Candidate-specific engineering, compatibility review, operating guardrails and operator approval remain necessary.
 
 ## Commercial contacts
 
@@ -31,4 +31,4 @@ The site distinguishes source-deck claims and cited field examples from forecast
 - Matt Ferraro
 - Azariah Zemariam
 
-No source-document phone numbers or personal email addresses are published. The email identity shown on the Q&A page is proposed only and is not active until separately approved.
+No source-document phone numbers are published. The named contacts link to their current personal email addresses until a shared commercial inbox is activated.
