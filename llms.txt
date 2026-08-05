@@ -4,8 +4,8 @@
 
 ## Canonical pages
 
-- Executive overview: https://azariah-debug.github.io/awt-well-performance/
-- Technical Q&A: https://azariah-debug.github.io/awt-well-performance/questions/
+- Executive overview: https://awtwellperformance.com/
+- Technical Q&A: https://awtwellperformance.com/questions/
 
 ## What the site covers
 
